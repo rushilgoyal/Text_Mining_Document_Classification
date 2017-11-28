@@ -10,8 +10,8 @@ from sklearn.metrics import zero_one_loss
 
 __version__ = "1.0"
 __license__ = "MIT"
-__author__ = "Kushal Gohil"
-__author_email__ = "kushal.gohil@rutgers.edu"
+__author__ = "Rushil Goyal"
+__author_email__ = "rg761@scarletmail.rutgers.edu"
 
 def fileRead(path):
     f = open(path, mode='r')
